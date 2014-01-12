@@ -803,8 +803,8 @@ fieldset#body {
 	background: #EA6060;
 }
 .stories_text h3{
-	width: 100%;
-	margin-right: 0;
+	width: 80%;
+	margin: 0 auto;
 	font-size:3em;
 	color: #ffffff;
 	text-transform:uppercase;
@@ -817,8 +817,8 @@ fieldset#body {
 /*----End-navigatiios-part----->
  /*---start-buttons-----*/
 .big-buttons-col1{
-	width:70%;
-	margin:0 auto;
+	width: 100%;
+	margin-right: 0%;
 	float:none;
 }
 .big-buttons-col1:last-child{
